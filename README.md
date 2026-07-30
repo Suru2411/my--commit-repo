@@ -9,6 +9,4 @@ _this is my git commit repo\
 
 so please stay tuned for more!!!!!!!
 
-## tata bye bye 
-
 ## thank you
