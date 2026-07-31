@@ -1,7 +1,7 @@
 # welcome to my page
 guys i use this as personal rough work space repo
 
-##heading 1
+## heading 1
 
 -this is my git commit repo
 
