@@ -6,6 +6,5 @@ _this is my git commit repo\
 -hi guys its ice to meet you all 
 
 -so here i will post my projects
-
 so please stay tuned for more!!!!!!!
 ## thank you
