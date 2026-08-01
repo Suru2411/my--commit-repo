@@ -1,8 +1,7 @@
 # welcome to my page
 guys i use this as personal rough work space repo
 
-## some guides 
-
+## some guides for my 
 
 -this is my git commit repo
 
