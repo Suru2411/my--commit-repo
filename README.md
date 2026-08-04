@@ -7,8 +7,7 @@ guys i use this as personal rough work space repo
 
 uhiugiyftudt
 
-
-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnn
 
 
 -this is my git commit repo
