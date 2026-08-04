@@ -4,7 +4,6 @@ guys i use this as personal rough work space repo
 
 ## some guides for my git repo
 
-
 -this is my git commit repo
 
 -hi guys its ice to meet you all 
