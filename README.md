@@ -1,9 +1,6 @@
 # welcome to my page
 
 guys i use this as personal rough work space repo
-
-
-
 tthtyh ffhyy 12344
 ## some guides for my git repo
 
