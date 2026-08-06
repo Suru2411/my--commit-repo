@@ -1,7 +1,7 @@
 # welcome to my page
 
 guys i use this as personal rough work space repo
-tthtyh ffhyy 12344
+tthtyh 
 ## some guides for my git repo
 
 -this is my git commit repo
