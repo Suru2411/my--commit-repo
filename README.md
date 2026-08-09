@@ -7,7 +7,7 @@ guys i use this as personal rough work space repo
 
 -this is my git commit repo
 
--hi guys its good to meet u all 
+-hi guys its good to meet you all 
 
 -so here i will post my projects
 
